@@ -3,46 +3,36 @@
 
 ## About Me
 <p>
-  Hi, I am currently an undergraduate student pursuing a Bachelor of Science degree in Computer Science at Ryerson             University in Toronto, Canada. 
-    I have an immense passion for programming, problem solving and life long learning. I enjoy web development and have        recently been immersing myself into the world of data science.
+  Hi there! I'm Robert Reis, a newly graduated computer science student with a passion for crafting solutions with software.
+  I have over 2 years of experience as a software developer! Having previously interned at BMO as a software developer on 2 different teams. 
 </p>
 
 ## :computer: Programming Skills 
 - Python
 - Javascript
-- C++
-- Java 
 - HTML/CSS
+- Java
+- C++
 
 ## :floppy_disk: Databases
 - MongoDB
-- SQL
+- MySQL
+- Oracle Database
 
-## :books: Libraries
+## :books: Libraries/Frameworks
 - React
-- Pygame (SDL Library) 
+- Angular
+- Express
+- NodeJS
+- Spring Boot
 
-## 🌱 Learning 
-- Haskell 
-- Elixir 
-- Vue.js 
+## 🌱 Learning   
+- .NET
+- AWS
 
 ## 📫 Reach me at ...
 * :two_men_holding_hands: [LinkedIn](https://www.linkedin.com/in/robertreisdev/)
 * :octocat: [Github](https://github.com/robertreisdev)
 * :email: [Email](mailto:robertreisdev@gmail.com)
 * :globe_with_meridians: [Website](https://robertreis.ca/)
-<!--
-**Robertreisdev/Robertreisdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
